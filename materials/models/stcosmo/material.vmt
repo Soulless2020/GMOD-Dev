@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "models/stcosmo/diffuse"
+	$bumpmap "models/stcosmo/normal"
+	$surfaceprop Metal
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.36 0.36 0.36]"
+}
